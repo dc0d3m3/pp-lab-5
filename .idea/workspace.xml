@@ -25,11 +25,28 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="zad2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dc0d3m3"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dc0d3m3/pp-lab-5&quot;,
+    &quot;accountId&quot;: &quot;ac3225eb-a23e-486b-adad-d0e5ae62013d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2fzuLSZBr5x0JxkaWDq4XHllvnp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,9 +57,18 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "zad3",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/mszwe/Documents/GitHub/pp-lab-5/a/zad2/src/Main.java"
+    "last_opened_file_path": "C:/Users/mszwe/Documents/GitHub/pp-lab-5/a/zad3",
+    "onboarding.tips.debug.path": "C:/Users/mszwe/Documents/GitHub/pp-lab-5/a/zad2/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -54,6 +80,36 @@
       <option name="presentableId" value="Default" />
       <updated>1714816174913</updated>
     </task>
+    <task id="LOCAL-00001" summary="zad2 v1">
+      <option name="closed" value="true" />
+      <created>1714817399161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714817399161</updated>
+    </task>
+    <task id="LOCAL-00002" summary="zad2 v1">
+      <option name="closed" value="true" />
+      <created>1714817481005</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714817481005</updated>
+    </task>
+    <task id="LOCAL-00003" summary="zad3 v1">
+      <option name="closed" value="true" />
+      <created>1714818428586</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714818428586</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zad2 v1" />
+    <MESSAGE value="zad3 v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="zad3 v1" />
   </component>
 </project>
